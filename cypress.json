@@ -1,0 +1,4 @@
+{
+  "integrationFolder": "packages",
+  "testFiles": "*/src/**/e2e.ts"
+}
